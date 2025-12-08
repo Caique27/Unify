@@ -1,0 +1,33 @@
+.Header {
+  height: 18vh;
+}
+.Header-logo {
+  width: 7rem;
+  height: 5rem;
+  margin-left: 2%;
+  margin-right: 4%;
+margin-top: 8%;
+  filter: drop-shadow(2px 2px 4px #999999);
+}
+.Header-main {
+  display: flex;
+  margin-top: -0.75%;
+  justify-content: space-between;
+}
+.Header-greeting {
+  margin-top: 1.75rem;
+  margin-left: 0.25rem;
+  text-shadow: 2px 2px 4px #999999;
+}
+.Header-time {
+  margin-top: 1.8rem;
+  margin-right: 4%;
+  float: right;
+  text-align: right;
+}
+.Header-intro{
+  display: flex;
+  flex-direction: row;
+  width:20%;
+  margin-left: 2%;
+}

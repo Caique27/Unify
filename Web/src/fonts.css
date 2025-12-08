@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'proxima nova';
+    src: local('ProximaNova'),
+    url("./fonts/ProximaNova.woff") format("woff");
+}
+@font-face {
+    font-family: 'jetbrains mono';
+    src: local('JetBrainsMono'),
+    url("./fonts/JetBrainsMono.woff2") format("woff2");
+}

@@ -1,0 +1,20 @@
+.Feedback-main {
+  margin: 2% 7%;
+}
+.Feedback-confirmation {
+  margin-top: 3%;
+  display: flex;
+  justify-content: space-around;
+}
+.Feedback-link {
+  margin: 10% 0;
+  display: flex;
+  justify-content: space-around;
+  font-family: proxima nova;
+  font-size: 106%;
+  font-weight: 500;
+  color: rgb(6, 172, 0);
+}
+.Feedback-link:hover {
+  text-decoration: underline rgb(6, 172, 0);
+}

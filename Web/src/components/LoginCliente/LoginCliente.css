@@ -1,0 +1,40 @@
+.LoginCliente-form {
+  margin: 2% 7%;
+}
+.LoginCliente-dados-conta {
+  display: flex;
+  flex-direction: row;
+}
+.LoginCliente-senha {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 3%;
+}
+
+.LoginCliente-ajuda-conta {
+  display: flex;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  margin-left: 4%;
+}
+.LoginCliente-ajuda-conta-question{
+  font-family: proxima nova;
+  
+  font-size: 100%;
+  margin-left: 1;
+}
+.LoginCliente-ajuda-conta-button{
+  font-family: proxima nova;
+  color: rgb(6, 172, 0);
+  font-size: 100%;
+  margin-left:1%;
+  cursor: pointer;
+}
+.LoginCliente-ajuda-conta-button:hover{
+  text-decoration: underline rgb(6, 172, 0);
+
+}
+div#margin {
+  color: white;
+}

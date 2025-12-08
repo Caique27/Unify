@@ -1,0 +1,18 @@
+.DadosLogin-form {
+  margin: 2% 7%;
+}
+.DadosLogin-senha {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 3%;
+}
+.DadosLogin-dados-email {
+  display: flex;
+  flex-direction: row;
+}
+.DadosLogin-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

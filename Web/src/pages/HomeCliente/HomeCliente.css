@@ -1,0 +1,31 @@
+.HomeCliente-page {
+  display:flex;
+  flex-direction:column;
+  flex:1;
+  overflow-y: hidden;
+  background-image: linear-gradient(
+    180deg,
+    rgba(34, 195, 126, 1) 0%,
+    rgba(0, 255, 21, 0.897) 6rem
+  );
+
+  overflow-x: hidden;
+  
+}
+.HomeCliente-content {
+  display:flex;
+  flex-direction:column;
+  flex:1;
+background-color: white;
+  width: 100%;
+justify-content: space-around;
+  border-radius: 3%;
+  
+  margin: auto;
+  margin-top: 0.8%;
+}
+.HomeCliente-menu{
+  display: flex;
+  
+  justify-content: space-around;
+}

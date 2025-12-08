@@ -1,0 +1,33 @@
+.DadosPessoais-form {
+  margin: 2% 7%;
+}
+.DadosPessoais-info {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
+}
+.DadosPessoais-nome {
+  display: flex;
+  flex-direction: row;
+}
+.DadosPessoais-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.DadosPessoais-genero {
+  margin-left: 11%;
+  margin-top: -1%;
+}
+.DadosPessoais-link {
+  margin-top: 2%;
+  margin-left: 4%;
+
+  font-family: proxima nova ;
+  font-size: 90%;
+  font-weight: 500;
+  color: rgb(6, 172, 0);
+}
+.DadosPessoais-link:hover {
+  text-decoration: underline rgb(6, 172, 0);
+}

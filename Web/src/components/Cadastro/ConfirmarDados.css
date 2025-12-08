@@ -1,0 +1,23 @@
+.ConfirmarDados-form {
+  margin: 2% 7%;
+}
+.ConfirmarDados-info {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+}
+.ConfirmarDados-login {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+}
+.ConfirmarDados-nome {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+}
+.ConfirmarDados-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}

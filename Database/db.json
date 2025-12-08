@@ -1,0 +1,534 @@
+{
+  "Contas": [
+    {
+      "id": "1",
+      "_numeroConta": 9899,
+      "_nomeCliente": "Caique",
+      "genero": "M",
+      "_senha": "senha1",
+      "contas": [
+        {
+          "banco": "Itaú",
+          "saldo": 1749,
+          "tipo": "física"
+        },
+        {
+          "banco": "Itaú",
+          "saldo": 2046.81,
+          "tipo": "jurídica"
+        },
+        {
+          "banco": "Nubank",
+          "saldo": -210,
+          "tipo": "física"
+        },
+        {
+          "banco": "Nubank",
+          "saldo": 1510,
+          "tipo": "jurídica"
+        }
+      ],
+      "agencia": "0001",
+      "_transacoes": [
+        {
+          "id": "aee5816e-e584-4875-b368-b3f89162332d",
+          "tipoConta": "jurídica",
+          "valor": 250,
+          "tipo": "Transferência Realizada",
+          "dia": "07/11/2025",
+          "hora": "22:46",
+          "banco": "Nubank"
+        },
+        {
+          "id": "e4ae881f-6d77-4da7-b338-d2c61c5b3bbc",
+          "tipoConta": "jurídica",
+          "valor": 100,
+          "tipo": "Transferência Realizada",
+          "dia": "24/10/2025",
+          "hora": "15:55",
+          "banco": "Itaú"
+        },
+        {
+          "id": "f93bd1aa",
+          "valor": 200,
+          "tipo": "Transferência Recebida",
+          "dia": "19/10/2025",
+          "hora": "20:03",
+          "banco": "Itaú",
+          "tipoConta": "física"
+        },
+        {
+          "id": "b4c29ea1",
+          "valor": 200,
+          "tipo": "Transferência Recebida",
+          "dia": "20/9/2025",
+          "hora": "19:02",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "d81f4b32",
+          "valor": 200,
+          "tipo": "Transferência Recebida",
+          "dia": "19/9/2025",
+          "hora": "23:14",
+          "banco": "Itaú",
+          "tipoConta": "física"
+        },
+        {
+          "id": "c7ef0a12",
+          "valor": 22,
+          "tipo": "Transferência Recebida",
+          "dia": "19/9/2025",
+          "hora": "23:11",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "e51ac239",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "20/06/2025",
+          "hora": "17:32",
+          "banco": "BTG",
+          "tipoConta": "física"
+        },
+        {
+          "id": "ab3c291d",
+          "valor": 1000,
+          "tipo": "Transferência Recebida",
+          "dia": "04/06/2025",
+          "hora": "19:10",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "ff12e98a",
+          "valor": 123,
+          "tipo": "Transferência Recebida",
+          "dia": "10/05/2025",
+          "hora": "20:36",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "9ac0d723",
+          "valor": 1000,
+          "tipo": "Transferência Realizada",
+          "dia": "09/05/2025",
+          "hora": "0:12",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "8223fb19",
+          "valor": 100,
+          "tipo": "Transferência Realizada",
+          "dia": "09/05/2025",
+          "hora": "0:09",
+          "banco": "Itaú",
+          "tipoConta": "física"
+        },
+        {
+          "id": "28df0c17",
+          "valor": 200,
+          "tipo": "Transferência Realizada",
+          "dia": "09/05/2025",
+          "hora": "0:09",
+          "banco": "Nubank",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "0d12b3c9",
+          "valor": 1,
+          "tipo": "Depósito",
+          "dia": "09/05/2025",
+          "hora": "0:01",
+          "banco": "BTG",
+          "tipoConta": "física"
+        },
+        {
+          "id": "3f92ce10",
+          "valor": 100,
+          "tipo": "Depósito",
+          "dia": "08/05/2025",
+          "hora": "23:58",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "c102fa77",
+          "valor": 120,
+          "tipo": "Depósito",
+          "dia": "08/05/2025",
+          "hora": "23:57",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "52bc17aa",
+          "valor": 100,
+          "tipo": "Depósito",
+          "dia": "08/05/2025",
+          "hora": "23:55",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "d1cf07fe",
+          "valor": 23,
+          "tipo": "Depósito",
+          "dia": "08/05/2025",
+          "hora": "23:53",
+          "banco": "Itaú",
+          "tipoConta": "física"
+        },
+        {
+          "id": "0ab3fe19",
+          "valor": 1237,
+          "tipo": "Transferência Realizada",
+          "dia": "06/05/2025",
+          "hora": "19:28",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "e3b4a201",
+          "valor": 202,
+          "tipo": "Depósito",
+          "dia": "06/05/2025",
+          "hora": "19:07",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "ac17f955",
+          "valor": 1237,
+          "tipo": "Transferência Realizada",
+          "dia": "06/05/2025",
+          "hora": "19:05",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "9d8b23c1",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "7bc192ef",
+          "valor": 1500,
+          "tipo": "Transferência Realizada",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "c01fbe22",
+          "valor": 100,
+          "tipo": "Depósito",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "Itaú",
+          "tipoConta": "física"
+        },
+        {
+          "id": "af23c188",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "0f3db822",
+          "valor": 1500,
+          "tipo": "Transferência Realizada",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "c9ef201b",
+          "valor": 100,
+          "tipo": "Depósito",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "81b3c0f1",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "Itaú",
+          "tipoConta": "física"
+        },
+        {
+          "id": "d71a20bc",
+          "valor": 1500,
+          "tipo": "Transferência Realizada",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "Nubank",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "fa02c134",
+          "valor": 100,
+          "tipo": "Depósito",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "BTG",
+          "tipoConta": "física"
+        }
+      ]
+    },
+    {
+      "id": "a20c",
+      "_numeroConta": 2150,
+      "_nomeCliente": "Fulano",
+      "genero": "Masculino",
+      "_senha": "123",
+      "contas": [
+        {
+          "banco": "Itaú",
+          "saldo": -1845,
+          "tipo": "física"
+        },
+        {
+          "banco": "Itaú",
+          "saldo": 1351.1,
+          "tipo": "jurídica"
+        },
+        {
+          "banco": "Nubank",
+          "saldo": 0,
+          "tipo": "física"
+        },
+        {
+          "banco": "Nubank",
+          "saldo": 0,
+          "tipo": "jurídica"
+        }
+      ],
+      "agencia": "0001",
+      "_transacoes": [
+        {
+          "id": "36ad5272-aef2-438b-9810-fa296eab9695",
+          "tipoConta": "jurídica",
+          "valor": 250,
+          "tipo": "Transferência Recebida",
+          "dia": "07/11/2025",
+          "hora": "22:46",
+          "banco": "Itaú"
+        },
+        {
+          "id": "1bb590fb-de12-4520-b406-5b51019b80c1",
+          "tipoConta": "jurídica",
+          "valor": 2200,
+          "tipo": "Transferência Recebida",
+          "dia": "24/10/2025",
+          "hora": "19:32",
+          "banco": "Itaú"
+        },
+        {
+          "id": "851f7a28-3c2b-4ae2-ad0a-e86dd6f904e3",
+          "tipoConta": "jurídica",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "24/10/2025",
+          "hora": "15:55",
+          "banco": "Itaú"
+        },
+        {
+          "id": "c0151d30-2e32-47df-b55a-59ceec5e4cb0",
+          "tipoConta": "jurídica",
+          "valor": 200,
+          "tipo": "Transferência Recebida",
+          "dia": "24/10/2025",
+          "hora": "15:47",
+          "banco": "Itaú"
+        },
+        {
+          "id": "cf0c9620-bdb1-4912-af52-579580d1d8ea",
+          "valor": 30,
+          "tipo": "Transferência Recebida",
+          "dia": "24/10/2025",
+          "hora": "15:46",
+          "banco": "Itaú"
+        },
+        {
+          "id": "9c5f3b6b-bb99-4d3b-a186-464b60419575",
+          "valor": 10,
+          "tipo": "Transferência Recebida",
+          "dia": "24/10/2025",
+          "hora": "15:45",
+          "banco": "Itaú"
+        },
+        {
+          "id": "6ed8ce9f-c6b4-4f72-a2ec-5117db736f82",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "24/10/2025",
+          "hora": "15:42",
+          "banco": "Itaú"
+        },
+        {
+          "id": "cb91f02e",
+          "valor": 200,
+          "tipo": "Transferência Realizada",
+          "dia": "19/10/2025",
+          "hora": "20:03",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "91ad27b0",
+          "valor": 200,
+          "tipo": "Transferência Recebida",
+          "dia": "19/9/2025",
+          "hora": "21:56",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "bc1ee94d",
+          "valor": 200,
+          "tipo": "Transferência Recebida",
+          "dia": "19/9/2025",
+          "hora": "21:48",
+          "banco": "Itaú",
+          "tipoConta": "física"
+        },
+        {
+          "id": "eb3c10a2",
+          "valor": 1200,
+          "tipo": "Depósito",
+          "dia": "22/06/2025",
+          "hora": "16:38",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "daf20c11",
+          "valor": 100,
+          "tipo": "Transferência Realizada",
+          "dia": "20/06/2025",
+          "hora": "17:32",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "1ef920ad",
+          "valor": 1000,
+          "tipo": "Transferência Realizada",
+          "dia": "04/06/2025",
+          "hora": "19:10",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "0a2bd614",
+          "valor": 123,
+          "tipo": "Transferência Realizada",
+          "dia": "10/05/2025",
+          "hora": "20:36",
+          "banco": "BTG",
+          "tipoConta": "física"
+        },
+        {
+          "id": "7c12b9ff",
+          "valor": 1000,
+          "tipo": "Transferência Recebida",
+          "dia": "09/05/2025",
+          "hora": "0:12",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "c0df2176",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "09/05/2025",
+          "hora": "0:09",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "d133e911",
+          "valor": 200,
+          "tipo": "Transferência Recebida",
+          "dia": "09/05/2025",
+          "hora": "0:09",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "ea91f20b",
+          "valor": 2074,
+          "tipo": "Transferência Realizada",
+          "dia": "05/05/2025",
+          "hora": "21:34",
+          "banco": "BTG",
+          "tipoConta": "física"
+        },
+        {
+          "id": "bb291fa1",
+          "valor": 2074,
+          "tipo": "Transferência Realizada",
+          "dia": "04/05/2025",
+          "hora": "22:56",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "a72dc009",
+          "valor": 2074,
+          "tipo": "Transferência Realizada",
+          "dia": "04/05/2025",
+          "hora": "22:56",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "d202b1fe",
+          "valor": 100,
+          "tipo": "Transferência Recebida",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "BTG",
+          "tipoConta": "jurídica"
+        },
+        {
+          "id": "4ff2be99",
+          "valor": 1000,
+          "tipo": "Transferência Realizada",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "Nubank",
+          "tipoConta": "física"
+        },
+        {
+          "id": "c99a207a",
+          "valor": 100,
+          "tipo": "Depósito",
+          "dia": "27/04/2025",
+          "hora": "21:09",
+          "banco": "Itaú",
+          "tipoConta": "jurídica"
+        }
+      ],
+      "_saldo": 180
+    }
+  ]
+}

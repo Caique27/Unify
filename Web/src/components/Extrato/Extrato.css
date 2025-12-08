@@ -1,0 +1,38 @@
+.Extrato-box{
+  margin-top: 3%;
+    display:flex;
+    flex-direction: column;
+    max-height: 30rem;
+    width: 40rem;
+    align-items:center ;
+    border-color: #b5b5b5;
+    border-width: 1px;
+    border-style: solid;
+    border-radius:10px;
+    overflow: auto;
+   
+    
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+ 
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(160, 160, 160); 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #898989; 
+  }
+.Extrato-div{
+    display: flex;
+    
+    height: 100%;
+   
+    
+}
